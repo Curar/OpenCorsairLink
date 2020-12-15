@@ -1,1 +1,1 @@
-# OpenCorsairLink
+# OpenCorsairLink - script's in bash
